@@ -2,7 +2,7 @@
 <h3 align="center">As an aspiring software engineer, I'm deeply committed to developing and optimizing code to address complex challenges. My academic journey at the University of Western Ontario, pursuing a Bachelor of Science in Computer Science (Honors Specialization), has equipped me with a profound understanding of code logic and a proficiency in multiple programming languages. I am dedicated to staying updated with the latest industry trends and advancements in software development. Passionate about leveraging my skills to create innovative solutions, I aim to drive business success through technological excellence.</h3>
 
 - 📫 How to reach me **mmir28@uwo.ca**
-- 📄 Know about my experiences [Resume!](https://mohammed-zaid-mir-resume.tiiny.site)
+- 📄 Know about my experiences [Resume!](https://drive.google.com/file/d/18a-aK94UoXdjxy0ooOfLbj7TFz7VF65A/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
