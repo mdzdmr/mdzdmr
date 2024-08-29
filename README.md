@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on building a chess engine<br>👯 I’m looking to collaborate on ML projects<br>⚡ Fun fact I'm 1900+ in chess
+🔭 I’m currently working on building a chess engine<br>👯 I’m looking to collaborate on ML projects<br>⚡ Fun fact I'm 2000+ in chess
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzdmr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
